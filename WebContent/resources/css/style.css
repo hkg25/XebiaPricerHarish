@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+.row {
+	display:block;
+	width:100%;
+	margin:10px 0;
+	position:relative;
+}
+
+
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.clear{
+clear:both;
+}
+
+.pointer{
+	cursor:pointer;
+}
+.nopointer{
+	cursor:default;
+}
+.boldText {
+	font-weight:bold;
+}
+
+.width150{
+	width:150px;
+}
